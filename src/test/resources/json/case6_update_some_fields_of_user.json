@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/firstName",
+    "value": "Jack"
+  },
+  {
+    "op": "replace",
+    "path": "/lastName",
+    "value": "Reacher"
+  }
+]
